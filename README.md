@@ -11,8 +11,4 @@ Este é um sistema simples de gerenciamento de tarefas, desenvolvido em Java. El
 
 - Java
 
-## Como Rodar
 
-1. Clone este repositório:
-   ```bash
-   git clone <URL do repositório>
